@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Olá, sou @BrendomGoncalves;<br>👀 Estou focado na Universidade (Ciência da Computação);<br>🌱 Por agora estou aprendendo Python para Ciência de Dados;<br>🤓 Ultimamente estou fascinado por Machine Learning;
+👋 Olá, sou @BrendomGoncalves;<br>👀 Estou cursando Ciência da Computação na UESC;<br>🌱 Por agora estou participando de uma Residência de Desenvolvimento de Software da CEPEDI focado em .Dotnet e Angular;
 
 
 ## 🌐 Socials:
