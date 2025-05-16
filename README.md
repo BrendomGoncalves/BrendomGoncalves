@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Olá, sou @BrendomGoncalves;<br>👀 Estou cursando Ciência da Computação na UESC;<br>🌱 Por agora estou participando de uma Residência de Desenvolvimento de Software da CEPEDI focado em .Dotnet e Angular;
+👋 Olá, sou @BrendomGoncalves;<br>👀 Estou cursando Ciência da Computação na UESC;<br>🌱 Recentemente concluí uma Residência de Desenvolvimento de Software da CEPEDI focado em .NET e Angular;
 
 
 ## 🌐 Socials:
